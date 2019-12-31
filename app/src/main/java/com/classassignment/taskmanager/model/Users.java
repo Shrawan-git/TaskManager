@@ -1,10 +1,10 @@
 package com.classassignment.taskmanager.model;
 
-public class user_cud {
+public class Users {
     private String name;
     private String password;
 
-    public user_cud(String name, String password) {
+    public Users(String name, String password) {
         this.name = name;
         this.password = password;
     }
